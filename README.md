@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ashika</h1>
-<h3 align="center">A passionate Computer Science & Engineering Student @ TU Delft.I have a deep love for design and thrive on creative challenges. Currently, I'm on a journey to master full-stack development and delve into the world of UX engineering. I'm actively seeking opportunities in these domains and excited to contribute to innovative projects.</h3>
+<h1 align="center">Hi, I'm Ashika 👋</h1>
+<h3 align="center">A passionate Computer Science & Engineering Student @ TU Delft. I have a deep love for design and thrive on creative challenges. Currently, I'm on a journey to master full-stack development and delve into the world of UX engineering. I'm actively seeking opportunities in these domains and excited to contribute to innovative projects.</h3>
 
 - 🔭 I’m currently working on **building my online Portfolio 👩‍💻🌐**
 
