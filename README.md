@@ -6,7 +6,7 @@ A passionate Computer Science & Engineering Student @ TU Delft. I have a deep lo
 
 - 🌱 I’m currently learning **JavaScript & React.js**
 
-- 💬 Ask me about **Java, UI/UX Design**
+- 💬 Ask me about **Java, UX and Web Design**
 
 - ⚡ Fun fact **I have an insatiable love for plants! My space is basically a mini jungle 🌿. You can always find me tending to my green companions and expanding my ever-growing plant family! 🪴💚**
 
