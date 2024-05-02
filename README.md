@@ -8,6 +8,8 @@ A passionate Computer Science & Engineering Student @ TU Delft. I have a deep lo
 
 - 💬 Ask me about **Java, UX and Web Design**
 
+-  📫 Reach me at **ashika.chak@gmail.com**
+
 - ⚡ Fun fact **I have an insatiable love for plants! My space is basically a mini jungle 🌿. You can always find me tending to my green companions and expanding my ever-growing plant family! 🪴💚**
 
 Connect with me:
