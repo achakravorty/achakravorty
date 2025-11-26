@@ -1,6 +1,6 @@
 Hi, I'm Ashika 👋
 
-A passionate Computer Science & Engineering Student @ TU Delft. I have a deep love for design and thrive on creative challenges. Currently, I'm on a journey to master **Full-Stack development** and delve into the world of **UX engineering**. My interest also extend to psychology and sustainability. I'm actively seeking opportunities in these domains and excited to contribute to innovative projects.
+A passionate Computer Science & Engineering SGraduate from TU Delft. I have a deep love for design and thrive on creative challenges. Currently, I'm on a journey to master **Full-Stack development** and delve into the world of **UX engineering**. My interest also extend to psychology and sustainability. I'm actively seeking opportunities in these domains and excited to contribute to innovative projects.
 
 - 🔭 I’m currently working on **building my online Portfolio 👩‍💻🌐**
 
