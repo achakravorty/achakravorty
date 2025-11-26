@@ -4,9 +4,9 @@ A passionate Computer Science & Engineering Graduate from TU Delft. I have a dee
 
 - 🔭 I’m currently working on **building my online Portfolio 👩‍💻🌐**
 
-- 🌱 I’m currently learning **JavaScript & React.js**
+- 🌱 I’m currently learning **Spring Boot, JavaScript & React.js**
 
-- 💬 Ask me about **Java, UX and Web Design**
+- 💬 Ask me about **Web development, UX and UI Design**
 
 -  📫 Reach me at **ashika.chak@gmail.com**
 
